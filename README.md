@@ -6,7 +6,7 @@ This project showcases a full-stack Azure Data Engineering pipeline for analyzin
 **Databricks**, and 
 **Synapse Analytics**, the project processes raw CSV data into insightful dashboards via **Power BI** and **Tableau**.
 
-![Architecture Diagram](Workflow Diagram.png)
+![Architecture Diagram](Workflow%20Diagram.png)
 
 ---
 
